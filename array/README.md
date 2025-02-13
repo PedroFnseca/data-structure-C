@@ -23,11 +23,11 @@ The program follows these steps:
 
 1. Compile the code using a C compiler:
    ```sh
-   gcc matriz3d.c -o matriz3d
+   gcc array.c -o array
    ```
 2. Run the program:
    ```sh
-   ./matriz3d
+   ./array
    ```
 3. Enter the required values when prompted.
 
